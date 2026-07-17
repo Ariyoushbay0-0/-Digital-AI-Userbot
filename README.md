@@ -155,9 +155,3 @@ Use environment variables for production deployments.
 * [ ] Local AI model support
 * [ ] Web dashboard
 * [ ] Message search system
-
----
-
-## 📄 License
-
-MIT License
