@@ -45,7 +45,7 @@ https://my.telegram.org
 Start the userbot:
 
 ```bash
-python main.py
+python auto-ai-answer.py
 ```
 
 The first run will ask for:
