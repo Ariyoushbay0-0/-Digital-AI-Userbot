@@ -21,23 +21,6 @@ A Telegram AI Userbot that logs conversations, builds a user personality profile
 
 ---
 
-## 🔧 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/USERNAME/digital-ai-userbot.git
-cd digital-ai-userbot
-```
-
-Install dependencies:
-
-```bash
-pip install telethon openai
-```
-
----
-
 ## ⚙️ Configuration
 
 Edit the configuration section:
